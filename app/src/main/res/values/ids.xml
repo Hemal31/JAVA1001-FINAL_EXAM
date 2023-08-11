@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="radioGroup" type="id" />
+    <item name="four_side" type="id" />
+    <item name="six_side" type="id" />
+    <item name="eight_side" type="id" />
+    <item name="ten_side" type="id" />
+    <item name="twelve_side" type="id" />
+    <item name="twenty_side" type="id" />
+    <item name="one_time" type="id" />
+    <item name="two_time" type="id" />
+    <item name="display" type="id" />
+</resources>
